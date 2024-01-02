@@ -5,3 +5,12 @@
 .navbar-nav .btn-outline-light:hover {
   background-color: #f3f6f9;
 }
+
+header {
+  background: url(../images/header-background.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.wave-decoration {
+  fill: #f3f6f9;
+}

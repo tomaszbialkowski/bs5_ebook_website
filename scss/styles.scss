@@ -13,3 +13,12 @@ $light: #f3f6f9;
     background-color: $light;
     // border-color: $secondary !important;
 }
+
+header {
+    background: url(../images/header-background.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+.wave-decoration {
+      fill: #f3f6f9;
+}
