@@ -1,4 +1,15 @@
 //. tu wpisujemy dodatkowy css
+$primary: #c167ef;
+$secondary: #10bcee;
+$dark: #2b3041;
+$light: #f3f6f9;
+
+
 .logo {
     width: 225px;
+}
+
+.navbar-nav .btn-outline-light:hover {
+    background-color: $light;
+    // border-color: $secondary !important;
 }

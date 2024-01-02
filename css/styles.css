@@ -1,3 +1,7 @@
 .logo {
   width: 225px;
 }
+
+.navbar-nav .btn-outline-light:hover {
+  background-color: #f3f6f9;
+}
