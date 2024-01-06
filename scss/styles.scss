@@ -14,6 +14,15 @@ $light: #f3f6f9;
     // border-color: $secondary !important;
 }
 
+.navbar {
+    transition: all .2s ease-in-out;
+}
+
+.navbar-sticky {
+    opacity: 0.95;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.6);
+}
+
 header {
     background: url(../images/header-background.jpg) center center no-repeat;
     background-size: cover;
