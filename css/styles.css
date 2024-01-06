@@ -20,6 +20,10 @@ header {
   background-size: cover;
 }
 
+.modal-dialog {
+  max-width: 1040px;
+}
+
 .wave-decoration {
   fill: #f3f6f9;
 }
