@@ -1,7 +1,6 @@
 //. tu nadpisujemy bootstrapa, zawsze powyżej importu
 // Bootstrap Variables
-$font-family-sans-serif: 'Open Sans', sans-serif;
-
+$font-family-sans-serif: "Open Sans", sans-serif;
 
 // Colors
 $primary: #c167ef;
@@ -35,8 +34,8 @@ $navbar-toggler-border-radius: 5px;
 $spacer: 1rem !default;
 $spacers: (
   0: 0,
-  1: $spacer * .25,
-  2: $spacer * .5,
+  1: $spacer * 0.25,
+  2: $spacer * 0.5,
   3: $spacer,
   4: $spacer * 1.5,
   5: $spacer * 3,
@@ -49,4 +48,3 @@ $line-height-base: 1.7;
 $headings-margin-bottom: $spacer * 1;
 
 @import "../node_modules/bootstrap/scss/bootstrap";
-

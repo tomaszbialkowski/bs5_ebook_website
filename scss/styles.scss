@@ -22,3 +22,15 @@ header {
 .wave-decoration {
       fill: #f3f6f9;
 }
+
+@media (max-width: 1000px) {
+    .hero .image-container {
+      display: flex;
+      justify-content: center;
+    }
+
+    .text-container h1 {
+        text-align: center;
+    }
+}
+
